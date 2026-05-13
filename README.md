@@ -1,5 +1,5 @@
-# COFFEE21.github.io
+# COFFEE21
 
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Octoc_config.ymlat's homepage
+description: Bookmark this to keep an eye on my project updates
