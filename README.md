@@ -1,4 +1,4 @@
-# COFFEE21
+# COFFEE21.github.io
 
 theme: jekyll-theme-minimal
 title: Octoc_config.ymlat's homepage
